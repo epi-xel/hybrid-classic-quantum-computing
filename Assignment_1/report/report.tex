@@ -712,7 +712,6 @@ Let's write a circuit that generates the following quantum state:
 \end{gather*}
 Since it resembles one of the Bell states, I kept it as reference. I put three qubits 
 in input instead of two and applied an Hadamard gate on the first one:
-
 \begin{gather*}
     H \otimes Id \otimes Id \ket{0} \otimes \ket{0} \otimes \ket{0} = \cfrac{1}{\sqrt{2}} (\ket 0 + \ket 1) \otimes \ket 0 \otimes \ket 0
 \end{gather*}
@@ -745,14 +744,14 @@ Similar to a Bell state the three qubits involved are entangled: measuring one o
 makes the others to collapse.
 
 \item[(3)]
-The depth of the circuit is 2, since in the longest path in the circuit there are two
+The depth of the circuit is 3, since in the longest path in the circuit there are two
 layers of gates. The width is 3, since we have three qubits.
 
 \item[(4)]
 Last, let's simulate the circuit on a `noisy' simulator in Qiskit. As in the previous
 question, I used Fake Manila V2: results are shown in Figure~\ref{fig:n_distribution_6}.
-We can see that nonethless the entanglement, the outcomes are not equally distributed
-as in the previous case. This is due to the noise introduced by the simulator.
+We can see that nonethless the entanglement, we have some outcomes that we would not 
+expect. This is due to the noise introduced by the simulator.
 
 \begin{figure}[h]
     \centering
