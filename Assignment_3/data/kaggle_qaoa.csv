@@ -144,3 +144,17 @@ instance,time,optimum,found,optimizer,backend,shots,optimizer_iteration,p
 11,1115.348038103,2.0,True,cobyla,aer_simulator,,1000,1
 11,1769.2297402200002,2.0,True,cobyla,aer_simulator,,1000,2
 11,968.7469699820003,2.0,True,cobyla,aer_simulator,,1000,1
+12,427.563206103,2.0,True,cobyla,aer_simulator,,1000,1
+12,613.8407388569999,2.0,True,cobyla,aer_simulator,,1000,2
+12,447.556824925,2.0,True,cobyla,aer_simulator,,1000,1
+12,1138.5087936570003,2.0,True,nelder_mead,aer_simulator,,1000,1
+12,2131.093887418,2.0,True,spsa,aer_simulator,,1000,1
+12,485.9368593390009,2.0,True,cobyla,aer_simulator,,250,1
+12,457.9143507339995,2.0,True,cobyla,aer_simulator,,500,1
+12,421.2485954019994,2.0,True,cobyla,aer_simulator,,750,1
+12,416.8992355320006,2.0,True,cobyla,aer_simulator,,1000,1
+12,134.63680895299876,16.0,True,cobyla,aer_simulator,200.0,1000,1
+12,136.66817449300106,27.0,True,cobyla,aer_simulator,400.0,1000,1
+12,149.5001886379996,4.0,True,cobyla,aer_simulator,600.0,1000,1
+12,141.6002742310011,7.0,True,cobyla,aer_simulator,800.0,1000,1
+12,141.09237717200085,5.0,True,cobyla,aer_simulator,1000.0,1000,1
