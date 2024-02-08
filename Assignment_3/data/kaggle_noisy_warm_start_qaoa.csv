@@ -1,8 +1,0 @@
-instance,time,optimum,found,optimizer,backend,shots,optimizer_iteration,p
-0,507.19012559099974,1.0,True,cobyla,fake_prague,,1000,1
-1,515.8797844330002,1.0,True,cobyla,fake_prague,,1000,1
-2,491.3044351849994,1.0,True,cobyla,fake_prague,,1000,1
-3,529.7132567280005,1.0,True,cobyla,fake_prague,,1000,1
-4,599.7499782960003,1.0,True,cobyla,fake_prague,,1000,1
-5,536.7054010159991,1.0,True,cobyla,fake_prague,,1000,1
-6,531.0555214350006,1.0,True,cobyla,fake_prague,,1000,1
