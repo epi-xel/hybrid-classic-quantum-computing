@@ -1,2 +1,0 @@
-instance,time,optimum,found,optimizer,backend,shots,optimizer_iteration,p
-0,4.492207799979951,1.0,True,cobyla,aer_simulator,,1000,1

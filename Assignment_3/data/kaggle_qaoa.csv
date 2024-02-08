@@ -97,9 +97,6 @@ instance,time,optimum,found,optimizer,backend,shots,optimizer_iteration,p
 6,3.8812962719998723,2.0,True,cobyla,aer_simulator,600.0,1000,1
 6,4.861332018000212,2.0,True,cobyla,aer_simulator,800.0,1000,1
 6,5.152986990000045,1.0,True,cobyla,aer_simulator,1000.0,1000,1
-7,967.6760196659998,2.0,True,cobyla,aer_simulator,,1000,1
-7,1354.1151427350005,2.0,True,cobyla,aer_simulator,,1000,2
-7,979.9217130440002,2.0,True,cobyla,aer_simulator,,1000,1
 8,507.82669791000006,2.0,True,cobyla,aer_simulator,,1000,1
 8,607.495949072,2.0,True,cobyla,aer_simulator,,1000,2
 8,519.6092694899999,2.0,True,cobyla,aer_simulator,,1000,1
@@ -141,9 +138,6 @@ instance,time,optimum,found,optimizer,backend,shots,optimizer_iteration,p
 10,129.75865999099915,12.0,True,cobyla,aer_simulator,600.0,1000,1
 10,146.31171423100022,5.0,True,cobyla,aer_simulator,800.0,1000,1
 10,149.89685517500038,13.0,True,cobyla,aer_simulator,1000.0,1000,1
-11,1115.348038103,2.0,True,cobyla,aer_simulator,,1000,1
-11,1769.2297402200002,2.0,True,cobyla,aer_simulator,,1000,2
-11,968.7469699820003,2.0,True,cobyla,aer_simulator,,1000,1
 12,427.563206103,2.0,True,cobyla,aer_simulator,,1000,1
 12,613.8407388569999,2.0,True,cobyla,aer_simulator,,1000,2
 12,447.556824925,2.0,True,cobyla,aer_simulator,,1000,1
@@ -158,3 +152,10 @@ instance,time,optimum,found,optimizer,backend,shots,optimizer_iteration,p
 12,149.5001886379996,4.0,True,cobyla,aer_simulator,600.0,1000,1
 12,141.6002742310011,7.0,True,cobyla,aer_simulator,800.0,1000,1
 12,141.09237717200085,5.0,True,cobyla,aer_simulator,1000.0,1000,1
+0,473.3045791029999,2.0,True,cobyla,fake_prague,,1000,1
+1,501.7787564189998,2.0,True,cobyla,fake_prague,,1000,1
+2,508.22881636199963,2.0,True,cobyla,fake_prague,,1000,1
+3,514.0969644400002,1.0,True,cobyla,fake_prague,,1000,1
+4,477.5616053200001,2.0,True,cobyla,fake_prague,,1000,1
+5,530.039267002001,1.0,True,cobyla,fake_prague,,1000,1
+6,479.23302534600043,2.0,True,cobyla,fake_prague,,1000,1
